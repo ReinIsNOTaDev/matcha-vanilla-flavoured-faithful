@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "min_format":88.0,
+    "max_format":107.1,
+    "description": [
+      {
+        "text": "Matcha-Vanilla Flavoured Faithful",
+        "color": "#56be4e"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "v0.1 based on Klei's v1.11/12",
+        "color": "#908b8b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+hi! this is a list of textures i want to change/add.
+- drygrass?
+- mud and related blocks/items?
+- beacon kindling
+- braised mushroom/fungus
+- invis item frame
+- broken iron
+- alloy shears?
+- pack.png
+
+textures already done:
+- copper shears

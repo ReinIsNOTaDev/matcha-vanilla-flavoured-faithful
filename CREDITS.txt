@@ -1,0 +1,5 @@
+original matcha flavoured textures by klei_wright -> https://modrinth.com/datapack/matcha-flavoured
+matcha-vanilla flavoured faithful forked off v1.11 of the similarly named matcha vanilla flavoured by bug_eater_, link -> https://www.planetminecraft.com/texture-pack/matcha-vanilla-flavoured/
+
+matcha-vanilla flavoured faithful full credits:
+- copper shears texture, other vanilla texture removals, lang update by rein
