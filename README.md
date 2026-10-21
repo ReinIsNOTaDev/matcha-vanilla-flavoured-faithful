@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This branch is currently unmaintained, as the project moves towards a new branch forked off of Matcha's main GitHub repo.
+
 # About
 A better Matcha-Vanilla for v1.12 and beyond, Matcha-Vanilla Flavoured Faithful aims to stay updated at a rate concurrent to the source datapack while modifying textures to better fit the vanilla style.
 
